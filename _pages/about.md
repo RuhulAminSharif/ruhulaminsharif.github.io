@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 author_profile: true
 redirect_from:
   - /about/
@@ -22,3 +22,9 @@ redirect_from:
 *Premier University*  
 *CGPA:* **3.98 / 4.00** *(Thesis Ongoing)*  
 *Award:* Recipient of merit-based scholarship
+
+## Research Interests
+- Computer Vision
+- Egocentric AI (First-Person Vision)
+- Real-time Object Detection and Tracking
+
